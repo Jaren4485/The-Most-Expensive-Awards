@@ -1,0 +1,35 @@
+.size{
+    height:400px;
+}
+
+.house{
+    height:400px;
+}
+
+body {
+    background-color:blue;
+}
+
+h1 {
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+h1 {
+    color:red;
+}
+
+p {
+    color:yellow;
+}
+
+p {
+   font-family: 'Kalam', cursive;
+}
+
+img {
+    border:20px dotted red;
+}
+
+h2 {
+    color:pink;
+}
